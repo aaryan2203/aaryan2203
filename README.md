@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/infinity.gif" width="500">
+<img src="./assets/infinite.gif" width="500">
 
 # ARGON
 
