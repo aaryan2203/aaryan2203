@@ -187,7 +187,7 @@ AI / ML         ████████████░░░░░░░░  60
 <a href="https://github.com/aaryan2203">
 <img src="https://img.shields.io/badge/GITHUB-∞-080B14?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/aaryan2203">
+<a href="https://linkedin.com/in/aaryan2203">
 <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-080B14?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/>
 </a>
 
